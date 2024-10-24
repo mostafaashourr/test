@@ -13,7 +13,7 @@ export class AppController {
   
   @Get('/status')
   async getStatus(@Res() res: Response) {
-    res.json({ Message: 'Server is Up' });
+    res.json({ Message: 'Server is up and running' });
   }
 
 
