@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Hi All hotfix resolved
-=======
 Hi All issue resolved again
->>>>>>> issue45
